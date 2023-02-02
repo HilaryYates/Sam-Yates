@@ -1,0 +1,26 @@
+.Container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Links {
+  /* padding-top: 80%; */
+}
+
+.About,
+.Work,
+.Contact {
+  color: rgba(209, 0, 0, 1);
+  font-family: "Catamaran", sans-serif;
+  font-family: "Lato", sans-serif;
+}
+
+.Slash {
+  padding-left: 5%;
+  padding-right: 5%;
+  color: rgba(209, 0, 0, 0.89);
+  /* font-weight: bold; */
+  font-family: "Catamaran", sans-serif;
+  font-family: "Lato", sans-serif;
+}
