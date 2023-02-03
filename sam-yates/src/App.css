@@ -2,10 +2,14 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  padding-left: 2%;
 }
 
 .Job-Title {
   color: #b8d1e6;
   font-family: "Catamaran", sans-serif;
   font-family: "Lato", sans-serif;
+  z-index: 1;
+  display: block;
+  padding-left: 4%;
 }
