@@ -4,10 +4,6 @@
   align-items: center;
 }
 
-.Links {
-  /* padding-top: 80%; */
-}
-
 .About,
 .Work,
 .Contact {
@@ -16,9 +12,16 @@
   font-family: "Lato", sans-serif;
 }
 
+.About:hover,
+.Work:hover,
+.Contact:hover {
+  border-bottom: 4px solid red;
+  font-size: 100px;
+}
+
 .Slash {
-  padding-left: 5%;
-  padding-right: 5%;
+  padding-left: 7%;
+  padding-right: 7%;
   color: rgba(209, 0, 0, 0.89);
   /* font-weight: bold; */
   font-family: "Catamaran", sans-serif;
